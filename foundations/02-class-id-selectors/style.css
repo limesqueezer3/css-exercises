@@ -1,0 +1,23 @@
+* {
+    font-family: "Times New Roman", serif;
+}
+
+.odd-numbers {
+    background-color: rgba(252, 112, 107, 0.863);
+    font-size: 32px;
+}
+
+.odd-numbers.cooler {
+    font-size: 40px;
+}
+
+#n2 {
+    color: blue;
+    font-size: 50px;
+}
+
+#n4 {
+    background-color: rgba(115, 230, 70, 0.993);
+    font-weight: bold;
+    font-size: 35px;
+}
